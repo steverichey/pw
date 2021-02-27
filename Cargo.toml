@@ -2,7 +2,11 @@
 name = "pw"
 version = "0.1.0"
 authors = ["Steve Richey <srichey@gowithfloat.com>"]
-edition = "2018"
+license = "MIT"
+description = "A simple command-line password generator."
+homepage = "https://github.com/steverichey/pw"
+repository = "https://github.com/steverichey/pw"
+readme = "readme.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
