@@ -2,6 +2,7 @@
 extern crate clap;
 extern crate clipboard;
 extern crate termion;
+extern crate rand;
 
 use std::iter;
 use std::convert::TryInto;
