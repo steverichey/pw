@@ -1,6 +1,6 @@
 # pw
 
-A simple password generator written in Rust. An update of (this)[https://gist.github.com/steverichey/6fb2f5e3684ca527497cd88bc8e720e7] sh script.
+A simple password generator written in Rust. An update of [this](https://gist.github.com/steverichey/6fb2f5e3684ca527497cd88bc8e720e7) sh script.
 
 # License
 
